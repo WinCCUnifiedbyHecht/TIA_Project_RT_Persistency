@@ -10,11 +10,11 @@ TIA Portal & WinCC Unified V17 Update2
 
 ### RT Startscreen
 
-![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_Persistency/blob/main/docs/RT_Startscreen.png)
+![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_RT_Persistency/blob/main/docs/RT_Startscreen.png)
 
 ### RT Trend Screen
 
-![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_Persistency/blob/main/docs/RT_Trend_Screen.png)
+![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_RT_Persistency/blob/main/docs/RT_Trend_Screen.png)
 
 
 
