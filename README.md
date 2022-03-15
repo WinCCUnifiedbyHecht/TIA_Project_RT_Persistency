@@ -11,7 +11,7 @@ TIA Portal & WinCC Unified V17 Update2
 
 please adapt the settings path, that it will fit in your setting 
 
-![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_Persistency/blob/main/docs/ES_settings_path.png)
+![zip](https://github.com/WinCCUnifiedbyHecht/TIA_Project_RT_Persistency/blob/main/docs/ES_settings_path.png)
 
 
 ### RT Startscreen
